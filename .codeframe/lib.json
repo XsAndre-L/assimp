@@ -1,0 +1,10 @@
+{
+  "dependencyConfig": {
+    "name": "assimp",
+    "libPath": "external/assimp",
+    "linkType": "static",
+    "libs": ["assimp"],
+    "version": "6.0.2"
+  },
+  "libraryOptions": {}
+}
